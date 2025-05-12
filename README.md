@@ -20,6 +20,9 @@ Execute Django admin and create details for 8 Movies.
 
 ## PROGRAM
 
+Name : Rohit GP
+
+Ref No : 212224220082
 
 ```
 admin.py 
